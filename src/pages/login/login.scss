@@ -1,3 +1,15 @@
 page-login {
+  .page {
+    background-color: #0d0910;
+    color: #ffffff;
+    .container {
+      height: 100%;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
 
+    }
+  }
 }
